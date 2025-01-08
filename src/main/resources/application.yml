@@ -1,0 +1,13 @@
+#spring:
+#  datasource:
+#     url: jdbc:sqlserver://server6264.database.windows.net:1433;database=employeedb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+#     username: server6264
+#     password: Deep@6264
+##    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#   show-sql: true
+#   hibernate:
+#     ddl-auto: update
+#     #dialect : org.hibernate.dialect.MySQL5Dialect
+#     properties.hibernate.dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+#
